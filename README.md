@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple projects.<br>🌱 I’m currently learning C++.<br>⚡ Fun fact I love to ski.<br>
+🔭 I’m currently working on multiple projects.<br>🌱 I’m currently learning C++.<br>⚡ Fun fact I love to ski.<br>📙 My tech stack is shown below!<br>
 
 
 # 💻 Tech Stack:
